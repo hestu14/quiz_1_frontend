@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(86, 144, 202);
+}
+header {
+    font-size: larger;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+
+main {
+    background-color: rgb(43, 86, 129);
+    width: 95%;
+
+}
+
+main #image img{
+    margin-top: 10px;
+    width: 750px;
+}
+main #content_text {
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    color: whitesmoke;
+    font-size: 26px;
+}
+
+footer ul {
+    color: whitesmoke;
+    font-size: 26px;
+    margin-left: 400px
+}
+
+#wiki {
+    color: whitesmoke;
+}
